@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'ninja',
+      name: '我有个朋友',
       script: './app.js',
     },
   ],
