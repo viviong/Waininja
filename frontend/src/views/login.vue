@@ -75,6 +75,7 @@
           <p>苹果手机教程<a style="" href="https://www.juan920.com/wp-content/uploads/2021/09/9d7013a00752.jpeg" target="_blank" id="waikiki">苹果手机教程。</a></p>
           <p>苹果手机请点击链接获取工具<a style="" href="https://apps.apple.com/cn/app/stream/id1312141691" target="_blank" id="waikiki">苹果手机工具</a>获取cookie并在下方填写。</p>
           <p>关注公众号获取个人资产<a style="" href="https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQEB8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAydmlCc0VSMDVjWEQxb2E5eWh4Y04AAgQK-DphAwQAjScA" id="jd">个人资产</a>，保存手机微信扫码添加。</p>
+          <p>QQ群一键上传CK<a style="" href="https://jq.qq.com/?_wv=1027&k=wRrFAqTv" target="_blank" id="waikiki">🔗点击获取QQ群链接</a></p>
           <p>使用抓包工具（iPhone：Stream，Android：HttpCanary）抓取京东app的ck，要注意pt_key和pt_pin字段是以app_open开头的。</p>
           <p>cookie直接填入输入框即可，Ninja会自动正则提取pt_key和pt_pin。</p>
         </div>
