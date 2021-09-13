@@ -3,7 +3,7 @@
     <div class="card">
       <div class="card-header">
         <div class="flex items-center justify-between">
-          <p class="card-title">Waikiki提醒您</p>
+          <p class="card-title">我有个朋友:提醒您</p>
         </div>
       </div>
       <div class="card-body text-base leading-6">
@@ -70,9 +70,12 @@
           <span class="ml-2 px-2 py-1 bg-gray-200 rounded-full font-normal text-xs">余量：{{ marginCount }}</span>
         </div>
         <div class="card-body text-base leading-6">
-          <p>PC用户建议使用开源工具<a style="" href="https://github.com/Waikkii/JD_Get_Cookie" target="_blank" id="waikiki">JD_Get_Cookie</a>获取cookie并在下方填写。</p>
-          <p>手机用户可以使用Alook浏览器登录<a style="" href="https://m.jd.com/" target="_blank" id="jd">JD官网</a>，并在菜单-工具箱-开发者工具-Cookies中获取（Android和iPhone通用）。</p>
-          <p>另外也可以使用抓包工具（iPhone：Stream，Android：HttpCanary）抓取京东app的ck，要注意pt_key和pt_pin字段是以app_open开头的。</p>
+          <p>安卓手机教程请点击链接获取<a style="" href="https://www.juan920.com/wp-content/uploads/2021/08/1ccb1b7b20b3.jpg" target="_blank" id="waikiki">安卓手机教程。</a></p>
+          <p>安卓手机请点击链接获取工具<a style="" href="https://share.weiyun.com/moMJz62Q" target="_blank" id="waikiki">安卓手机工具</a>获取cookie并在下方填写。</p>
+          <p>苹果手机教程<a style="" href="https://www.juan920.com/wp-content/uploads/2021/09/9d7013a00752.jpeg" target="_blank" id="waikiki">苹果手机教程。</a></p>
+          <p>苹果手机请点击链接获取工具<a style="" href="https://apps.apple.com/cn/app/stream/id1312141691" target="_blank" id="waikiki">苹果手机工具</a>获取cookie并在下方填写。</p>
+          <p>关注公众号获取个人资产<a style="" href="https://mp.weixin.qq.com/cgi-bin/showqrcode?ticket=gQEB8DwAAAAAAAAAAS5odHRwOi8vd2VpeGluLnFxLmNvbS9xLzAydmlCc0VSMDVjWEQxb2E5eWh4Y04AAgQK-DphAwQAjScA" id="jd">个人资产</a>，保存手机微信扫码添加。</p>
+          <p>使用抓包工具（iPhone：Stream，Android：HttpCanary）抓取京东app的ck，要注意pt_key和pt_pin字段是以app_open开头的。</p>
           <p>cookie直接填入输入框即可，Ninja会自动正则提取pt_key和pt_pin。</p>
         </div>
         <span class="card-subtitle"> 请在下方输入您的 cookie 登录。 </span>
